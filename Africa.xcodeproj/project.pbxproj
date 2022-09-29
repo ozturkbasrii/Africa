@@ -44,6 +44,8 @@
 		A4521B2428E5C353007DE61E /* VideoListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4521B2328E5C353007DE61E /* VideoListItemView.swift */; };
 		A4521B2628E5CDF7007DE61E /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4521B2528E5CDF7007DE61E /* VideoPlayerView.swift */; };
 		A4521B2928E5CEA7007DE61E /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4521B2828E5CEA7007DE61E /* VideoPlayerHelper.swift */; };
+		A4521B2B28E625A7007DE61E /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4521B2A28E625A7007DE61E /* LocationModel.swift */; };
+		A4521B2D28E6307B007DE61E /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4521B2C28E6307B007DE61E /* MapAnnotationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -86,6 +88,8 @@
 		A4521B2328E5C353007DE61E /* VideoListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListItemView.swift; sourceTree = "<group>"; };
 		A4521B2528E5CDF7007DE61E /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		A4521B2828E5CEA7007DE61E /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
+		A4521B2A28E625A7007DE61E /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
+		A4521B2C28E6307B007DE61E /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +198,7 @@
 				A4521B1F28E5AFC1007DE61E /* ExternalWeblinkView.swift */,
 				A4521B2328E5C353007DE61E /* VideoListItemView.swift */,
 				A4521B2528E5CDF7007DE61E /* VideoPlayerView.swift */,
+				A4521B2C28E6307B007DE61E /* MapAnnotationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -204,6 +209,7 @@
 				A4521B0C28E4D701007DE61E /* CoverImageModel.swift */,
 				A4521B1328E57895007DE61E /* AnimalModel.swift */,
 				A4521B2128E5C318007DE61E /* VideoModel.swift */,
+				A4521B2A28E625A7007DE61E /* LocationModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -321,9 +327,11 @@
 				A4521B2928E5CEA7007DE61E /* VideoPlayerHelper.swift in Sources */,
 				A4521B1E28E5ABB7007DE61E /* InsetMapView.swift in Sources */,
 				A4521AFF28E4CA6F007DE61E /* VideoListView.swift in Sources */,
+				A4521B2D28E6307B007DE61E /* MapAnnotationView.swift in Sources */,
 				A4521B0A28E4D5A7007DE61E /* CoverImageView.swift in Sources */,
 				A4521B2228E5C318007DE61E /* VideoModel.swift in Sources */,
 				A4521B0328E4CA7F007DE61E /* GalleryView.swift in Sources */,
+				A4521B2B28E625A7007DE61E /* LocationModel.swift in Sources */,
 				A4521B1028E57033007DE61E /* CodableBundleExtension.swift in Sources */,
 				A4521B2428E5C353007DE61E /* VideoListItemView.swift in Sources */,
 				A4521B1A28E58D76007DE61E /* InsertGalleryView.swift in Sources */,
